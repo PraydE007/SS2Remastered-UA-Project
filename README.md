@@ -16,7 +16,7 @@
 
 1. [**Скачайте релізний архів**](https://github.com/PraydE007/SS2Remastered-UA-Project/releases) *(рекомендовано)* або склонуйте репозиторій:
    ```bash
-   git clone https://github.com/твій-юзернейм/system-shock-2-ukrainizer.git
+   git clone https://github.com/PraydE007/SS2Remastered-UA-Project.git
    ```
 
 2. **Розпакуйте** вміст до папки з грою, щоб структура виглядала так:
