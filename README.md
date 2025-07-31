@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/PraydE007/SS2Remastered-UA-Project/icon.png" alt="" width="256" height="256">
+   <img src="icon.png" alt="" width="256" height="256">
 </div>
 
 # 🇺🇦 Українізатор для System Shock 2: 25th Anniversary Remaster
@@ -27,7 +27,7 @@
    └── ModInstaller.exe   ← Інсталятор
    ```
 <div align="center">
-   <img src="https://github.com/PraydE007/SS2Remastered-UA-Project/Screenshots/Screenshot_1.png" alt="" width="512" height="512" style="border-radius: 5%">
+   <img src="Screenshots/Screenshot_1.png" alt="" width="512" height="512" style="border-radius: 5%">
 </div>
 
    > 📌 Якщо ви склонували/скачали весь репозиторій, потрібні файли знаходяться:
@@ -46,7 +46,7 @@
 4. У вікні інсталятора натисніть кнопку **"Обрати..."** та вкажіть шлях до папки `SS2UAMod`.
 
 <div align="center">
-   <img src="https://github.com/PraydE007/SS2Remastered-UA-Project/Screenshots/Screenshot_2.png" alt="" width="512" height="256" style="border-radius: 5%">
+   <img src="Screenshots/Screenshot_2.png" alt="" width="512" height="256" style="border-radius: 5%">
 </div>
 
 5. Натисніть **"Встановити"**.
@@ -54,7 +54,7 @@
 6. Дочекайтесь завершення — з’явиться сповіщення.
 
 <div align="center">
-   <img src="https://github.com/PraydE007/SS2Remastered-UA-Project/Screenshots/Screenshot_3.png" alt="" width="512" height="512" style="border-radius: 5%">
+   <img src="Screenshots/Screenshot_3.png" alt="" width="512" height="512" style="border-radius: 5%">
 </div>
 
 7. Готово! Закривайте інсталятор та насолоджуйтесь грою українською мовою.
