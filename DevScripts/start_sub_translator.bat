@@ -1,0 +1,1 @@
+py SS2AR_Sub_Translate_Editor_NEW.py
