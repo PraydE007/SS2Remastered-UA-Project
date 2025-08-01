@@ -10,6 +10,15 @@
 
 Мод створено на основі перекладу класичної версії гри від **VVghost** та **Twentysixz**.
 
+<div align="center">
+   <img src="GameScreenshots/1.png" alt="" width="256" height="144">
+   <img src="GameScreenshots/2.png" alt="" width="256" height="144">
+   <img src="GameScreenshots/3.png" alt="" width="256" height="144">
+   <img src="GameScreenshots/4.png" alt="" width="256" height="144">
+   <img src="GameScreenshots/5.png" alt="" width="256" height="144">
+   <img src="GameScreenshots/6.png" alt="" width="256" height="144">
+</div>
+
 ---
 
 ## ⚙️ Інструкція з встановлення
